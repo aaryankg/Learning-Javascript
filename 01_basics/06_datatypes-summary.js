@@ -31,7 +31,7 @@ const heros = ["golu", "molu", "inshaan"];
 // Object
 
 let myObj = {
-    name: "hitesh",
+    name: "aaryan bhai",
     age: 22,
 }
 
