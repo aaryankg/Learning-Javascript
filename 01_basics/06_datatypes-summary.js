@@ -1,5 +1,21 @@
+// Based on how it will stored and retrived, it is categerized in two groups.
+
+
+//  Primitive
+
+//  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
+
+// Reference (Non primitive)
+
+// Array, Objects, Functions
+
+
+
 const id = Symbol('123')
 const anotherId = Symbol('123')
+
+// both id and anotherId are not same. whether both seems same value.
+// symbol is used for unique identification
 
 console.log(id === anotherId);
 
@@ -7,10 +23,6 @@ console.log(id === anotherId);
 
 // we use n at the end for bigInt
 
-// Reference (Non primitive)
-
-
-                              // Array, Objects, Functions
 
 // Array
 
