@@ -15,7 +15,7 @@ console.log(myName);
 console.log(anotherName);
 
 
-// it will not change because copy of variable is given not the refrence of original vairable.
+// it will not change because copy of variable is given, not the refrence of original vairable.
 
 // example of non primitive 
 
