@@ -1,4 +1,4 @@
-// Basic function foramte
+// Basic function formate
 function sayMyName(){
     console.log("A");
     console.log("A");
