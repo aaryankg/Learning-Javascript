@@ -54,7 +54,7 @@ function addone(num){
 
 
 // Another way to declare a function.
-addTwo(5) // This statement will give error. We can not call function like this by this declaration.
+addTwo(5) // This statement will give error. We can not call a function like this by this declaration.
 const addTwo = function(num){
     return num + 2
 }
