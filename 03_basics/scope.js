@@ -32,9 +32,9 @@ function one(){
 // one()
 
 if (true) {
-    const username = "hitesh"
-    if (username === "hitesh") {
-        const website = " youtube"
+    const username = "aaryan"
+    if (username === "aaryan") {
+        const website = " github"
         // console.log(username + website);
     }
     // console.log(website); This statement will give error.
