@@ -20,7 +20,7 @@ const user = {
 
 // console.log(this);
 
-//When we print only this keyword in a function, It gives a globle object containing many things.
+// When we print only this keyword in a function, It gives a globle object containing many things.
 // function chai(){
 //     let username = "aaryan"
 //     console.log(this.username); // but this does not work in the function like object.
