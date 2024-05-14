@@ -10,8 +10,8 @@ const user = {
 }
 // This keyword is used to access values of current context.
 
-//NOTE:
-//When we print only 'this' keyword in node environment. It refers to empty object. 
+// NOTE:
+// When we print only 'this' keyword in node environment. It refers to empty object. 
 // And when we print only 'this' keyword in browser. Then it refers to window object.
 
 // user.welcomeMessage()
