@@ -40,6 +40,8 @@ const temperature = 41
 
 // }
 
+// && and || are logical operators.
+
 const userLoggedIn = true
 const debitCard = true
 const loggedInFromGoogle = false
