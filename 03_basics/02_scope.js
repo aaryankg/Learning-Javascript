@@ -1,6 +1,6 @@
 // when we declare a variable using var keyword. It become global. That's way we do'nt use var keyword
 
-//var c = 300
+// var c = 300
 
 let a = 300
 if (true) {

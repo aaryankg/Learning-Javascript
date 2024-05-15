@@ -21,7 +21,7 @@ const temperature = 41
 // }
 
 // console.log(`User power: ${power}`); This statement will give error.
-
+// We can not access power variable outside function scope.
 
 // const balance = 1000
 
