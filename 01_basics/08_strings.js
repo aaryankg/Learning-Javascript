@@ -10,6 +10,7 @@ console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 // always use above way of concatenation because it is modern and easy way.
 
 
+// this is another way to define string.
 const gameName = new String('aaryan-hc-com')
 
 // console.log(gameName[0]); to see 0th character 
@@ -26,10 +27,8 @@ console.log(gameName.charAt(2));
 console.log(gameName.indexOf('t'));
 
 
-// this is another way to define string.
-const newString = gameName.substring(0, 4)
-
-// substring() : It is used to fetch the part of the given string on the basis of the specified index. 
+// substring() : It is used to fetch the part of the given string on the basis of the specified index.
+const newString = gameName.substring(0, 4) 
 
 console.log(newString);
 
